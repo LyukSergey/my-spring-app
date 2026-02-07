@@ -1,1 +1,1 @@
-user controller
+Welcome to our application
